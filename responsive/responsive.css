@@ -59,6 +59,18 @@
     .blog-left-content {
         width: 100%;
     }
+    .blog-item {
+        text-align: center;
+    }
+    .blog-item img {
+        float: none;
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .blog-item p {
+        text-align: justify;
+        font-size: 18px;
+    }
     .footer-left {
         width: 100%;
         text-align: center;
